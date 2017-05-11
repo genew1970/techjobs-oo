@@ -5,7 +5,7 @@ package org.launchcode.java.demos.java4python;
  */
 public class ElseIf {
     public static void main(String args[]) {
-        int grade = 85;
+        int grade = 95;
 
         if (grade < 60) {
             System.out.println('F');
