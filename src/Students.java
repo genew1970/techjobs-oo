@@ -24,7 +24,6 @@ public class Students {
 
         } while (!newStudent.equals(""));
 
-
         // input the id for each student
         for (String student : students) {
             System.out.println("Please enter the student ID for " + student + ":");
