@@ -26,6 +26,10 @@
           <option name="url" value="git@github.com:genew1970/techjobs-oo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:genew1970/sorting-cities.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\genew\IdeaProjects" />
