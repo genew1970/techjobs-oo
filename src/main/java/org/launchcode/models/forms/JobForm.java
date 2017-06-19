@@ -51,6 +51,7 @@ public class JobForm {
         /*
             TODO #4 - populate the other ArrayList collections needed in the view
         */
+
         locations = jobData.getLocations().findAll();
         coreCompetencies = jobData.getCoreCompetencies().findAll();
         positionTypes = jobData.getPositionTypes().findAll();
